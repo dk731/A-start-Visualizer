@@ -1,4 +1,4 @@
-# Unity Tic-Tac-Toe with Online
+# A\* algorithm visualizer
 
 ## Basic information
 
